@@ -5,6 +5,7 @@
 
 <img src="./assets/images/cover.png" alt="capa do projeto" />
 <a href="https://github.com/iuricode">Layout desenvolvido por Iuri Silva :: Codelândia</a>
+<br/>
 
 Challenge 02 - Codelândia :: O projeto de design do JordanShoes foi desenvolvido com o Nuxt 3 para melhorar as
 habilidades de Nuxt, Vue, Sass, Javascript e também a aquisição de conhecimento de novos plugins.
