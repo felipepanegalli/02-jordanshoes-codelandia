@@ -1,42 +1,24 @@
-# Nuxt 3 Minimal Starter
+# Challenge 02 - Codelândia :: JordanShoes
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+[![Latest Stable Version](https://badgen.net/badge/Vue/3.0+/green)](https://badgen.net/packagist/lang/vue)
+[![Nuxt Version Require](https://badgen.net/badge/Nuxt/3.x/green)](https://badgen.net/badge/nuxt/3.x/green)
 
-## Setup
+<img src="./assets/images/cover.png" alt="capa do projeto" />
 
-Make sure to install the dependencies:
+Challenge 02 - Codelândia :: O projeto de design do JordanShoes foi desenvolvido com o Nuxt 3 para melhorar as habilidades de Nuxt, Vue, Sass, Javascript e também a aquisição de conhecimento de novos plugins.
 
-```bash
-# yarn
-yarn install
+## Tecnologias e Ferramentas
 
-# npm
-npm install
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-# pnpm
-pnpm install --shamefully-hoist
-```
+## Instalação e execução
 
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+1. Clonar o repositório `https://github.com/felipepanegalli/02-jordanshoes-codelandia.git`;
+2. Instalar as dependências `yarn install`;
+3. Executar o projeto com `yarn dev`;
+4. O projeto será executado em `http://localhost:3000/`;
