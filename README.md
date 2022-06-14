@@ -4,7 +4,7 @@
 [![Nuxt Version Require](https://badgen.net/badge/Nuxt/3.x/green)](https://badgen.net/badge/nuxt/3.x/green)
 
 <img src="./assets/images/cover.png" alt="capa do projeto" />
-<a href="https://github.com/iuricode" style="padding-bottom: 14px" target="_blank">Layout desenvolvido por Iuri Silva :: Codelândia</a>
+<p><a href="https://github.com/iuricode" target="_blank">Layout desenvolvido por Iuri Silva :: Codelândia</a></p>
 
 
 Challenge 02 - Codelândia :: O projeto de design do JordanShoes foi desenvolvido com o Nuxt 3 para melhorar as
